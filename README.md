@@ -1,10 +1,8 @@
 # Sobre mim
 
-- 👋 Hi, I’m @celtapreto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, eu sou @celtapreto
+- 👀 Eu sou interessada em jogos
+- 🌱 Eu estou lendo Berserk
 
 <!---
 celtapreto/celtapreto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
